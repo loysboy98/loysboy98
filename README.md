@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @loysboy98
+- 👋 Hi, I’m @loysboy98 Developer,philanthropist,
 - 👀 I’m interested in only Javascript and Python
 - 🌱 I’m currently learning node-js and React
 - 💞️ I’m looking to collaborate on NASA!)))
